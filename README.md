@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="450"/>
-  <img src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="450"/>
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="360"/>
+  <img src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="360"/>
 </div>
 
 # Hello there, I'm Imam 👋
