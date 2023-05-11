@@ -1,16 +1,31 @@
-### Hi there 👋
 
-<!--
-**ImamJhe/ImamJhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="450"/>
+  <img src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="450"/>
+</div>
 
-Here are some ideas to get you started:
+# Hello there, I'm Imam 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑🏻‍💻 About Me :
+
+I'm a data science learner 👨🏽‍💻 from Indonesia <br>
+
+- 🔎 I’m interested about machine learning and enjoy exploring everything about data or Big Data
+- 📘 I learn the data science base on project on kaggle
+- 👯 I train my coding skills from several YouTube channels and free mini courses
+- ⌛ In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- 🎯 My goal is to be an expert in data
+- 🧠 Learn it untill expert
+
+## On this github I will share my independent projects
+
+## 🔍 Find Me
+
+<div id="badges" align="left">
+  <a href="https://www.linkedin.com/in/imamjhe/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/imamjhe/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
