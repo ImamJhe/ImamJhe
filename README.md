@@ -22,10 +22,10 @@ I'm a data science learner 👨🏽‍💻 from Indonesia <br>
 ## 🔍 Find Me
 
 <div id="badges" align="left">
-  <a href="https://www.linkedin.com/in/imamjhe/">
+  <a href="https://www.linkedin.com/in/imamjhe/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/imamjhe/">
+  <a href="https://www.instagram.com/imamjhe/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
