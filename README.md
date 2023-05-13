@@ -15,7 +15,7 @@ I'm a data science learner 👨🏽‍💻 from Indonesia <br>
 - 👯 I train my coding skills from several YouTube channels and free mini courses
 - ⌛ In my free time, I solve problems on GeeksforGeeks and read tech articles.
 - 🎯 My goal is to be an expert in data
-- 🧠 Learn it untill expert
+- 🧠 Learn it to be expert
 
 ## On this github I will share my independent projects
 
