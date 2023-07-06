@@ -1,7 +1,5 @@
-
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="360"/>
-  <img src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="360"/>
+  <img src="https://cutewallpaper.org/28/day-change-gif-wallpaper/45-2a782-rain-d1b8a-gifs-a92bc-gif-2a208-abyss.gif" width="640" />
 </div>
 
 # Hello there, I'm Imam 👋
